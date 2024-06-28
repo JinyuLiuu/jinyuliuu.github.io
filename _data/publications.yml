@@ -1,0 +1,15 @@
+main:
+
+  - title: Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection
+    authors: Jiashuo Yu*, <strong>Jinyu Liu*</strong>, Ying Cheng, Rui Feng, Yuejie Zhang
+    conference: Proceedings of the 30th ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2022.
+    pdf: https://arxiv.org/abs/2207.05500
+    code: https://github.com/JustinYuu/MACIL_SD
+    image: ./assets/img/1.png
+
+  - title: Self-Supervised Video Representation Learning with Motion-Contrastive Perception
+    authors: <strong>Jinyu Liu</strong>, Ying Cheng, Yuejie Zhang, Ruiwei Zhao, Rui Feng
+    # conference_short: CVPR
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2022.
+    pdf: https://arxiv.org/abs/2204.04607
+    image: ./assets/img/2.png
