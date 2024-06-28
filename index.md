@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 
-I am a Ph.D. student in School of Computer Science at Fudan University, supervised by Prof. <a href="https://henghuiding.github.io/">Henghui Ding</a>. And I am also a member of the <a href="https://fvl.fudan.edu.cn">Fudan Vision and Learning Laboratory</a>. Before that, I was a research intern at Tencent, and an algorithm engineer at Trip.com Group.
+I am a Ph.D. student in the School of Computer Science at Fudan University, supervised by Prof. <a href="https://henghuiding.github.io/">Henghui Ding</a>. And I am also a member of the <a href="https://fvl.fudan.edu.cn">Fudan Vision and Learning Laboratory</a>. Before that, I was a research intern at Tencent, and an algorithm engineer at Trip.com Group.
 
-My research interests lie in computer vision and deep learning. Currently, my research particularly focuses on image/video referring segementation and multi-modal representation learning.
+My research interests lie in computer vision and deep learning. Currently, my research particularly focuses on image/video referring segmentation and multi-modal representation learning.
 
 
 <!-- ## Research Interests
@@ -20,6 +20,7 @@ My research interests lie in computer vision and deep learning. Currently, my re
 - **[2022-03]** One paper is accepted by ICME 2022.
 
 
+(*indicating equal contribution)
 {% include_relative _includes/publications.md %}
 <!-- 
 {% include_relative _includes/services.md %} -->
