@@ -9,7 +9,6 @@ main:
 
   - title: Self-Supervised Video Representation Learning with Motion-Contrastive Perception
     authors: <strong>Jinyu Liu</strong>, Ying Cheng, Yuejie Zhang, Ruiwei Zhao, Rui Feng
-    # conference_short: CVPR
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2022.
     pdf: https://arxiv.org/abs/2204.04607
     image: ./assets/img/2.png
